@@ -33,7 +33,8 @@ Build the Project: Build the project for production:
 
 `npm run build`
 Task Management
-We will use GitHub issues to manage and track tasks. Follow these steps to create and manage tasks:
+We will use GitHub issues to manage and track tasks. 
+Follow these steps to create and manage tasks:
 
 ## Create an Issue:
 
@@ -61,8 +62,6 @@ Follow these guidelines to ensure a smooth development process:
 - Create a pull request for each feature or bug fix.
 - Provide a detailed description of the changes.
 - Request reviews from team members.
-- Contributing
-- We welcome contributions from the community! Please read our Contributing Guidelines for more details on how to get started.
 
 **License**
 This project is licensed under the MIT License. See the LICENSE file for more information.
